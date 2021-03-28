@@ -1,0 +1,11 @@
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\bin\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.deps.json
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\bin\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.dll
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\bin\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.pdb
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.AssemblyInfoInputs.cache
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.AssemblyInfo.cs
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.dll
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.pdb
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\bin\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.runtimeconfig.json
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\bin\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.runtimeconfig.dev.json
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.csproj.CoreCompileInputs.cache
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Business\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Business.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Data\bin\Debug\netcoreapp3.1\Treinamento.Gamificado.Data.deps.json
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Data\bin\Debug\netcoreapp3.1\Treinamento.Gamificado.Data.dll
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Data\bin\Debug\netcoreapp3.1\Treinamento.Gamificado.Data.pdb
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Data\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Data.AssemblyInfoInputs.cache
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Data\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Data.AssemblyInfo.cs
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Data\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Data.csproj.CoreCompileInputs.cache
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Data\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Data.dll
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Data\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Data.pdb
+D:\Users\masan\Documents\GitHub\AppTreinamentoGamificado\Treinamento.Gamificado\Src\Treinamento.Gamificado.Data\obj\Debug\netcoreapp3.1\Treinamento.Gamificado.Data.csprojAssemblyReference.cache
